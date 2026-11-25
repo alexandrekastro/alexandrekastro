@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alexandrekastro/alexandrekastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alexandre Castro 👋
 
-Here are some ideas to get you started:
+**Python & Backend Development | API Integrations | Software Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical applications and continuously improve my skills in backend development, databases, and software architecture.
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-alexandrekastro-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexandrekastro)
+[![CineDuo](https://img.shields.io/badge/Featured_Project-CineDuo-F7C600?style=flat-square&logo=github&logoColor=black)](https://github.com/alexandrekastro/Cineduo)
+
+</div>
+
+## About Me
+
+- Focused on **Python**, **backend systems**, and **API integrations**.
+- Interested in building useful tools, from personal applications to management systems.
+- Improving my knowledge of **software architecture**, **databases**, and **automated testing**.
+
+## Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Featured Projects
+
+### [CineDuo](https://github.com/alexandrekastro/Cineduo)
+Personal movie and TV series ranking application built with Python. Includes a Top 3 podium, actor rankings, movie collections, local data storage, and OMDb/TMDb API integrations.
+
+### [Sistema-BrechoKK](https://github.com/alexandrekastro/Sistema-BrechoKK)
+Business management system project.
+
+### [Sistema-Ultra](https://github.com/alexandrekastro/Sistema-Ultra)
+Software project in my GitHub portfolio.
+
+## Currently Learning
+
+`Backend Architecture` · `REST APIs` · `SQL & Databases` · `Testing` · `Git & GitHub Workflows`
+
+---
+
+<div align="center">
+  <sub>Building, learning, and improving one project at a time.</sub>
+</div>
