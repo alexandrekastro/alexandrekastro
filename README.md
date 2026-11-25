@@ -2,7 +2,7 @@
 
 # Hi, I'm Alexandre Castro 👋
 
-**Python & Backend Development | API Integrations | Software Projects**
+**Python & Systems Development | API Integrations | Software Projects**
 
 I build practical applications and continuously improve my skills in backend development, databases, and software architecture.
 
@@ -23,7 +23,8 @@ I build practical applications and continuously improve my skills in backend dev
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -33,11 +34,11 @@ I build practical applications and continuously improve my skills in backend dev
 ### [CineDuo](https://github.com/alexandrekastro/Cineduo)
 Personal movie and TV series ranking application built with Python. Includes a Top 3 podium, actor rankings, movie collections, local data storage, and OMDb/TMDb API integrations.
 
-### [Sistema-BrechoKK](https://github.com/alexandrekastro/Sistema-BrechoKK)
-Business management system project.
+### Sistema-BrechoKK — Private Project
+Business management system developed with Python, focused on inventory control, sales, supplier management, and database integration.
 
-### [Sistema-Ultra](https://github.com/alexandrekastro/Sistema-Ultra)
-Software project in my GitHub portfolio.
+### Sistema-Ultra — Private Project
+In the planning and development stage
 
 ## Currently Learning
 
