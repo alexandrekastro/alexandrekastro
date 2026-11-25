@@ -42,7 +42,7 @@ In the planning and development stage
 
 ## Currently Learning
 
-`Backend Architecture` · `REST APIs` · `SQL & Databases` · `Testing` · `Git & GitHub Workflows`
+`Python` · `REST APIs` · `SQL & Databases` · `linux` · `Git & GitHub Workflows`
 
 ---
 
