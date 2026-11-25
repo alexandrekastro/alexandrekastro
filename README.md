@@ -4,7 +4,7 @@
 
 **Python & Systems Development | API Integrations | Software Projects**
 
-I build practical applications and continuously improve my skills in backend development, databases, and software architecture.
+I build practical applications and continuously improve my skills in backend, frontend, development, databases, and software architecture.
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-alexandrekastro-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexandrekastro)
 [![CineDuo](https://img.shields.io/badge/Featured_Project-CineDuo-F7C600?style=flat-square&logo=github&logoColor=black)](https://github.com/alexandrekastro/Cineduo)
@@ -13,7 +13,7 @@ I build practical applications and continuously improve my skills in backend dev
 
 ## About Me
 
-- Focused on **Python**, **backend systems**, and **API integrations**.
+- Focused on mastering **Python**
 - Interested in building useful tools, from personal applications to management systems.
 - Improving my knowledge of **software architecture**, **databases**, and **automated testing**.
 
